@@ -74,7 +74,7 @@ C            ██████████░░░░░░░░░░░░�
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025-2026
 
 - [ ] Complete university projects successfully
 - [ ] Improve problem-solving skills
