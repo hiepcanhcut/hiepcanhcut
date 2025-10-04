@@ -16,18 +16,12 @@
 
 ### Language Usage
 ```text
-Python       ████████████████████░░░░   85%
-JavaScript   ██████████████████░░░░░░   80%  
-Java         ████████████░░░░░░░░░░░░   60%
-C++          █████████░░░░░░░░░░░░░░░   45%
-C            ███████░░░░░░░░░░░░░░░░░   35%
+Python       ███████████████████████░░   78.81%
+C++          ███████░░░░░░░░░░░░░░░░░░   21.19%
 ```
 
-![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-60%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-45%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-35%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-78.81%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-21.19%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
@@ -39,7 +33,16 @@ C            ███████░░░░░░░░░░░░░░░�
 
 ![Hiệp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiepcanhcut&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepcanhcut&layout=compact&theme=default&hide_border=true)
+**Most Used Languages**  
+- **Python:** 78.81%  
+- **C++:** 21.19%  
+
+**Activity Overview**  
+- **Total Stars Earned:** 3  
+- **Total Commits (last year):** 164  
+- **Total PRs:** 0  
+- **Total Issues:** 0  
+- **Contributed to (last year):** 0  
 
 </div>
 
