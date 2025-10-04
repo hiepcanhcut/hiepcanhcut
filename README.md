@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎓 **PTIT - Information Technology** • 💻 **JavaScript Developer** • 🌱 **Always Learning**
+🎓 **PTIT - Information Technology** • 💻 **Full-Stack Developer** • 🌱 **Always Learning**
 
 ![Visitors](https://komarev.com/ghpvc/?username=ledanghiep&color=blueviolet)
 
@@ -10,18 +10,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Programming Languages
 
-### 💻 Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -39,21 +34,15 @@
 
 ## 🎯 Goals for 2025-2026
 
-### 🚀 2025
-- [ ] Master React and Node.js ecosystem
-- [ ] Build full-stack applications
-- [ ] Learn TypeScript
-- [ ] Contribute to open-source
-
-### 📈 2026  
+- [ ] Master full-stack development
+- [ ] Build production-ready applications
+- [ ] Contribute to open-source projects
 - [ ] Graduate with excellence
-- [ ] Secure developer internship
-- [ ] Build production-ready projects
-- [ ] Specialize in JavaScript stack
+- [ ] Secure developer position
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-hiepl3252@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiepl3252@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hiepcanhcut-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiepcanhcut)
@@ -62,7 +51,7 @@
 
 <div align="center">
 
-**Building the future with code** 🚀
+**Building with code** 🚀
 
 </div>
 
