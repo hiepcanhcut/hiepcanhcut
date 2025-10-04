@@ -12,6 +12,7 @@
 
 ## 🎓 About Me
 
+```javascript
 class AboutHiệp {
     constructor() {
         this.name = "Lê Đăng Hiệp";
