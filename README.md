@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎓 **PTIT - Information Technology** • 💻 **Student Developer** • 🌱 **Always Learning**
+🎓 **PTIT - Information Technology** • 💻 **JavaScript Developer** • 🎮 **Game Developer** • 🌱 **Always Learning**
 
 ![Visitors](https://komarev.com/ghpvc/?username=ledanghiep&color=blueviolet)
 
@@ -12,35 +12,75 @@
 
 ## 🎓 About Me
 
-```python
-class AboutHiệp:
-    def __init__(self):
-        self.name = "Lê Đăng Hiệp"
-        self.education = "Posts and Telecommunications Institute of Technology (PTIT)"
-        self.year = "3rd Year Student"
-        self.major = "Information Technology"
-        
-    def skills(self):
-        return ["C", "C++", "Python", "Java"]
-        
-    def interests(self):
-        return ["Programming", "Technology", "Learning New Things"]
+```javascript
+class AboutHiệp {
+    constructor() {
+        this.name = "Lê Đăng Hiệp";
+        this.education = "Posts and Telecommunications Institute of Technology (PTIT)";
+        this.year = "3rd Year Student";
+        this.major = "Information Technology";
+    }
+    
+    get skills() {
+        return ["JavaScript", "Node.js", "Electron", "React", "HTML5", "CSS3", "Express.js"];
+    }
+    
+    get interests() {
+        return ["Web Development", "Game Development", "Desktop Applications", "UI/UX Design"];
+    }
+    
+    get currentFocus() {
+        return "Mastering JavaScript Ecosystem & Building Real-World Projects";
+    }
+}
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Core Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🖥️ Desktop & Backend
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🎮 Featured Project: Supermarket Tycoon
+
+### 🛒 Desktop Business Simulation Game
+**Built with:** `Electron` `JavaScript` `Node.js` `HTML5` `CSS3`
+
+**Key Features:**
+- 💼 Complete business management system
+- 📈 Real-time economic simulation
+- 🚀 Upgrade and expansion mechanics
+- 💾 Auto-save functionality
+- 🎨 Beautiful UI with CSS animations
+
+**Technologies Demonstrated:**
+- Electron for cross-platform desktop apps
+- Modern JavaScript (ES6+) 
+- DOM manipulation and event handling
+- Local storage for game data persistence
+- CSS Grid/Flexbox for responsive layouts
 
 ---
 
@@ -50,65 +90,140 @@ class AboutHiệp:
 
 ![Hiệp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiepcanhcut&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepcanhcut&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepcanhcut&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📚 JavaScript Expertise
 
-- 🎯 **Data Structures & Algorithms**
-- 💡 **Object-Oriented Programming**
-- 🗃️ **Database Management Systems**
-- 🌐 **Web Development Fundamentals**
+### 🎯 Core JavaScript Mastery
+```javascript
+const mySkills = {
+    fundamentals: ["ES6+", "Async/Await", "Promises", "Closures"],
+    frontend: ["DOM Manipulation", "Event Handling", "API Integration"],
+    backend: ["Node.js", "Express", "RESTful APIs"],
+    tools: ["npm", "Webpack", "Babel"],
+    testing: ["Jest", "Mocha"]
+};
+```
 
-## 📈 My Progress
+### 🚀 Current Learning Focus
+- **Advanced React Patterns** - Hooks, Context, Redux
+- **Node.js Backend Development** - Express, MongoDB
+- **TypeScript** - Type safety and better development experience
+- **Electron** - Desktop application development
+- **Performance Optimization** - Code splitting, lazy loading
+
+## 📈 Skills Progress
 
 ```text
-Python       ████████████████████░░░░   80%
-OOP          █████████████████░░░░░░░   65%
-C++          ███████████░░░░░░░░░░░░░   50%
-C            ██████████░░░░░░░░░░░░░░   45%
+JavaScript    ██████████████████████░░   90%
+Node.js       ██████████████████░░░░░░   80%
+React         ███████████████░░░░░░░░░   70%
+TypeScript    ██████████░░░░░░░░░░░░░░   50%
+Electron      ██████████████░░░░░░░░░░   75%
+HTML/CSS      █████████████████░░░░░░░   85%
+MongoDB       ████████░░░░░░░░░░░░░░░░   40%
+Express.js    ████████████░░░░░░░░░░░░   60%
 ```
 
 ---
 
 ## 🎯 Goals for 2025-2026
 
-- [ ] Complete university projects successfully
-- [ ] Improve problem-solving skills
-- [ ] Learn about software development methodologies
-- [ ] Build practical projects with Python
-- [ ] Contribute to open source
+### 🚀 Q1-Q2 2025 - Advanced JavaScript
+- [ ] Master React ecosystem (React Router, Redux Toolkit)
+- [ ] Build 3+ full-stack JavaScript applications
+- [ ] Learn TypeScript and implement in projects
+- [ ] Contribute to open-source JavaScript projects
+
+### 📈 Q3-Q4 2025 - Full-Stack Mastery
+- [ ] Develop expertise in Node.js backend development
+- [ ] Learn database design with MongoDB/Mongoose
+- [ ] Build RESTful APIs and authentication systems
+- [ ] Master deployment (Vercel, Netlify, Heroku)
+
+### 🎓 2026 - Professional Development
+- [ ] Complete university with excellence
+- [ ] Secure JavaScript developer internship
+- [ ] Build portfolio with 10+ substantial projects
+- [ ] Participate in JavaScript hackathons
+
+### 🏆 Long-term JavaScript Vision
+- [ ] Become full-stack JavaScript expert
+- [ ] Specialize in React/Node.js ecosystem
+- [ ] Build and deploy production applications
+- [ ] Mentor other JavaScript developers
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiepl3252@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/eyeheap)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiepcanhcut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 </div>
 
 ---
 
-## 💡 When I'm Not Coding
+## 💡 JavaScript Projects & Specialties
 
-- 📖 Reading tech blogs and documentation
-- 🎮 Playing games to relax
-- ☕ Enjoying coffee while studying
-- 🎵 Listening to music
-- 🌐 Exploring new technologies
+### 🎮 Game Development with JS
+- Desktop games using Electron
+- Browser-based games with Canvas
+- Interactive simulations
+
+### 🌐 Full-Stack Applications
+- MERN stack projects (MongoDB, Express, React, Node.js)
+- Real-time applications with WebSockets
+- Progressive Web Apps (PWA)
+
+### 🖥️ Desktop Applications
+- Cross-platform apps with Electron
+- Native-feeling desktop software
+- System integration projects
+
+---
+
+## 📝 Recent JavaScript Achievements
+
+✅ **Developed complete desktop game** with Electron & JavaScript  
+✅ **Mastered modern ES6+ JavaScript features**  
+✅ **Built responsive web applications** with React  
+✅ **Created RESTful APIs** with Node.js and Express  
+✅ **Implemented complex state management** in frontend applications  
+✅ **Learned asynchronous programming** with Promises and Async/Await  
+
+---
+
+## 🔄 Currently Building
+
+- 🔧 **Supermarket Tycoon v2.0** - Enhanced features and UI
+- 🌐 **Personal Portfolio** - React-based showcase
+- 🛒 **E-commerce Platform** - Full-stack MERN application
+- 📊 **Task Management App** - React with backend API
 
 ---
 
 <div align="center">
 
-### 💫 "The beautiful thing about learning is that no one can take it away from you"
+### 💫 "Any application that can be written in JavaScript, will eventually be written in JavaScript." - Jeff Atwood
 
-**Thanks for stopping by!** 😊
+**Passionate about JavaScript and its endless possibilities!** 🚀
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Enthusiast-yellow)
+![React](https://img.shields.io/badge/React-Lover-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Developer-green)
+![Learning](https://img.shields.io/badge/Always%20Learning-100%25-brightgreen)
 
 </div>
+
+---
+
+*Last updated: January 2025*
