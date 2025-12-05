@@ -86,13 +86,6 @@ Mình là sinh viên năm 3 ngành Công Nghệ Thông Tin tại PTIT, đam mê 
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiepcanhcut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepcanhcut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiepcanhcut&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c084fc)
 
 </div>
