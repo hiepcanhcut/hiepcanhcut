@@ -93,12 +93,6 @@ Mình là sinh viên năm 3 ngành Công Nghệ Thông Tin tại PTIT, đam mê 
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiepcanhcut&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
-<div align="center">
-  
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiepcanhcut&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c084fc)
 
 </div>
