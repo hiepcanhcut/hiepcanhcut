@@ -90,18 +90,6 @@ Mình là sinh viên năm 3 ngành Công Nghệ Thông Tin tại PTIT, đam mê 
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=hiepcanhcut&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## Dự Án Nổi Bật
 
 ### Game Development Projects
