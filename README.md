@@ -90,6 +90,8 @@ Mình là sinh viên năm 3 ngành Công Nghệ Thông Tin tại PTIT, đam mê 
 
 </div>
 
+---
+
 ## Dự Án Nổi Bật
 
 ### Game Development Projects
